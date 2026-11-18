@@ -310,6 +310,7 @@ main.wadah {
     order: 3;
     display: flex;
     flex: 1 1 100%;
+    min-width: 0;
     gap: 4px;
     padding: 4px;
     border: 2px solid var(--white);
